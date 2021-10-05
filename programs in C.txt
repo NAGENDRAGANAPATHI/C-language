@@ -1,0 +1,30 @@
+C language basics
+
+1.print hello world
+2.C program to find ASCII value of a character
+3.ASCII value of a number
+4.Bitwise Operators.
+5.Simple intrest
+6.Area of square and rectangle and circle
+7.sum of n natural numbers
+8.swapping of two numbers
+9.swapping without using third varible 
+
+conditional statements
+1.simple if ex.eligible for vote
+2.if and else  ex.even or odd and big of two numbers
+3.week days and months using swithch
+4.vowel or consonant
+5.operators
+6.grade using ifelse ladder
+7.profit and loss
+8.using if else alphabet or number or special character
+9.digit to word using if else if  ladder
+
+
+10.using switch case:
+i.perform arithmetci operators
+ii.perform relational operators
+iii.perform bitwise operators
+iv.days of the week
+v.check the vowel or consonant
